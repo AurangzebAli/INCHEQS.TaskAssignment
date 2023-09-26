@@ -1,0 +1,58 @@
+D:\Development\01-Core\01-Library\02-Level 2\03-Branch\INCHEQS.TaskAssignment-00.000.00.01\INCHEQS.TaskAssignment\bin\Debug\INCHEQS.TaskAssignment.dll
+D:\Development\01-Core\01-Library\02-Level 2\03-Branch\INCHEQS.TaskAssignment-00.000.00.01\INCHEQS.TaskAssignment\bin\Debug\INCHEQS.TaskAssignment.pdb
+D:\Development\01-Core\01-Library\02-Level 2\03-Branch\INCHEQS.TaskAssignment-00.000.00.01\INCHEQS.TaskAssignment\bin\Debug\EntityFramework.dll
+D:\Development\01-Core\01-Library\02-Level 2\03-Branch\INCHEQS.TaskAssignment-00.000.00.01\INCHEQS.TaskAssignment\bin\Debug\INCHEQS.Common.dll
+D:\Development\01-Core\01-Library\02-Level 2\03-Branch\INCHEQS.TaskAssignment-00.000.00.01\INCHEQS.TaskAssignment\bin\Debug\INCHEQS.DataAccessLayer.dll
+D:\Development\01-Core\01-Library\02-Level 2\03-Branch\INCHEQS.TaskAssignment-00.000.00.01\INCHEQS.TaskAssignment\obj\Debug\INCHEQS.TaskAssignment.dll
+D:\Development\01-Core\01-Library\02-Level 2\03-Branch\INCHEQS.TaskAssignment-00.000.00.01\INCHEQS.TaskAssignment\obj\Debug\INCHEQS.TaskAssignment.pdb
+D:\Development\01-Core\01-Library\02-Level 2\03-Branch\INCHEQS.TaskAssignment-00.000.00.01\INCHEQS.TaskAssignment\obj\Debug\INCHEQS.TaskAssignment.csprojResolveAssemblyReference.cache
+D:\MAB\SOURCE\V1.1_23092020\01-Library\02-Level 2\02-Trunk\INCHEQS.TaskAssignment-00.000.00.01\INCHEQS.TaskAssignment\bin\Debug\INCHEQS.TaskAssignment.dll
+D:\MAB\SOURCE\V1.1_23092020\01-Library\02-Level 2\02-Trunk\INCHEQS.TaskAssignment-00.000.00.01\INCHEQS.TaskAssignment\bin\Debug\INCHEQS.TaskAssignment.pdb
+D:\MAB\SOURCE\V1.1_23092020\01-Library\02-Level 2\02-Trunk\INCHEQS.TaskAssignment-00.000.00.01\INCHEQS.TaskAssignment\bin\Debug\EntityFramework.dll
+D:\MAB\SOURCE\V1.1_23092020\01-Library\02-Level 2\02-Trunk\INCHEQS.TaskAssignment-00.000.00.01\INCHEQS.TaskAssignment\bin\Debug\INCHEQS.Common.dll
+D:\MAB\SOURCE\V1.1_23092020\01-Library\02-Level 2\02-Trunk\INCHEQS.TaskAssignment-00.000.00.01\INCHEQS.TaskAssignment\bin\Debug\INCHEQS.DataAccessLayer.dll
+D:\MAB\SOURCE\V1.1_23092020\01-Library\02-Level 2\02-Trunk\INCHEQS.TaskAssignment-00.000.00.01\INCHEQS.TaskAssignment\obj\Debug\INCHEQS.TaskAssignment.csprojAssemblyReference.cache
+D:\MAB\SOURCE\V1.1_23092020\01-Library\02-Level 2\02-Trunk\INCHEQS.TaskAssignment-00.000.00.01\INCHEQS.TaskAssignment\obj\Debug\INCHEQS.TaskAssignment.csproj.CoreCompileInputs.cache
+D:\MAB\SOURCE\V1.1_23092020\01-Library\02-Level 2\02-Trunk\INCHEQS.TaskAssignment-00.000.00.01\INCHEQS.TaskAssignment\obj\Debug\INCHEQS.TaskAssignment.csproj.CopyComplete
+D:\MAB\SOURCE\V1.1_23092020\01-Library\02-Level 2\02-Trunk\INCHEQS.TaskAssignment-00.000.00.01\INCHEQS.TaskAssignment\obj\Debug\INCHEQS.TaskAssignment.dll
+D:\MAB\SOURCE\V1.1_23092020\01-Library\02-Level 2\02-Trunk\INCHEQS.TaskAssignment-00.000.00.01\INCHEQS.TaskAssignment\obj\Debug\INCHEQS.TaskAssignment.pdb
+D:\AFFIN_ICS_v2\V1\MVC\01-Core\01-Library\02-Level 2\02-Trunk\INCHEQS.TaskAssignment-00.000.00.01\INCHEQS.TaskAssignment\bin\Debug\INCHEQS.TaskAssignment.dll
+D:\AFFIN_ICS_v2\V1\MVC\01-Core\01-Library\02-Level 2\02-Trunk\INCHEQS.TaskAssignment-00.000.00.01\INCHEQS.TaskAssignment\bin\Debug\INCHEQS.TaskAssignment.pdb
+D:\AFFIN_ICS_v2\V1\MVC\01-Core\01-Library\02-Level 2\02-Trunk\INCHEQS.TaskAssignment-00.000.00.01\INCHEQS.TaskAssignment\bin\Debug\EntityFramework.dll
+D:\AFFIN_ICS_v2\V1\MVC\01-Core\01-Library\02-Level 2\02-Trunk\INCHEQS.TaskAssignment-00.000.00.01\INCHEQS.TaskAssignment\bin\Debug\INCHEQS.Common.dll
+D:\AFFIN_ICS_v2\V1\MVC\01-Core\01-Library\02-Level 2\02-Trunk\INCHEQS.TaskAssignment-00.000.00.01\INCHEQS.TaskAssignment\bin\Debug\INCHEQS.DataAccessLayer.dll
+D:\AFFIN_ICS_v2\V1\MVC\01-Core\01-Library\02-Level 2\02-Trunk\INCHEQS.TaskAssignment-00.000.00.01\INCHEQS.TaskAssignment\obj\Debug\INCHEQS.TaskAssignment.csprojAssemblyReference.cache
+D:\AFFIN_ICS_v2\V1\MVC\01-Core\01-Library\02-Level 2\02-Trunk\INCHEQS.TaskAssignment-00.000.00.01\INCHEQS.TaskAssignment\obj\Debug\INCHEQS.TaskAssignment.csproj.CoreCompileInputs.cache
+D:\AFFIN_ICS_v2\V1\MVC\01-Core\01-Library\02-Level 2\02-Trunk\INCHEQS.TaskAssignment-00.000.00.01\INCHEQS.TaskAssignment\obj\Debug\INCHEQS.TaskAssignment.csproj.CopyComplete
+D:\AFFIN_ICS_v2\V1\MVC\01-Core\01-Library\02-Level 2\02-Trunk\INCHEQS.TaskAssignment-00.000.00.01\INCHEQS.TaskAssignment\obj\Debug\INCHEQS.TaskAssignment.dll
+D:\AFFIN_ICS_v2\V1\MVC\01-Core\01-Library\02-Level 2\02-Trunk\INCHEQS.TaskAssignment-00.000.00.01\INCHEQS.TaskAssignment\obj\Debug\INCHEQS.TaskAssignment.pdb
+D:\2.Development\EGYPT DEMO\ICS\Source\V1\MVC\01-Core\01-Library\02-Level 2\02-Trunk\INCHEQS.TaskAssignment-00.000.00.01\INCHEQS.TaskAssignment\bin\Debug\INCHEQS.TaskAssignment.dll
+D:\2.Development\EGYPT DEMO\ICS\Source\V1\MVC\01-Core\01-Library\02-Level 2\02-Trunk\INCHEQS.TaskAssignment-00.000.00.01\INCHEQS.TaskAssignment\bin\Debug\INCHEQS.TaskAssignment.pdb
+D:\2.Development\EGYPT DEMO\ICS\Source\V1\MVC\01-Core\01-Library\02-Level 2\02-Trunk\INCHEQS.TaskAssignment-00.000.00.01\INCHEQS.TaskAssignment\bin\Debug\EntityFramework.dll
+D:\2.Development\EGYPT DEMO\ICS\Source\V1\MVC\01-Core\01-Library\02-Level 2\02-Trunk\INCHEQS.TaskAssignment-00.000.00.01\INCHEQS.TaskAssignment\bin\Debug\INCHEQS.Common.dll
+D:\2.Development\EGYPT DEMO\ICS\Source\V1\MVC\01-Core\01-Library\02-Level 2\02-Trunk\INCHEQS.TaskAssignment-00.000.00.01\INCHEQS.TaskAssignment\bin\Debug\INCHEQS.DataAccessLayer.dll
+D:\2.Development\EGYPT DEMO\ICS\Source\V1\MVC\01-Core\01-Library\02-Level 2\02-Trunk\INCHEQS.TaskAssignment-00.000.00.01\INCHEQS.TaskAssignment\obj\Debug\INCHEQS.TaskAssignment.csproj.AssemblyReference.cache
+D:\2.Development\EGYPT DEMO\ICS\Source\V1\MVC\01-Core\01-Library\02-Level 2\02-Trunk\INCHEQS.TaskAssignment-00.000.00.01\INCHEQS.TaskAssignment\obj\Debug\INCHEQS.TaskAssignment.csproj.CoreCompileInputs.cache
+D:\2.Development\EGYPT DEMO\ICS\Source\V1\MVC\01-Core\01-Library\02-Level 2\02-Trunk\INCHEQS.TaskAssignment-00.000.00.01\INCHEQS.TaskAssignment\obj\Debug\INCHEQS.TaskAssignment.csproj.CopyComplete
+D:\2.Development\EGYPT DEMO\ICS\Source\V1\MVC\01-Core\01-Library\02-Level 2\02-Trunk\INCHEQS.TaskAssignment-00.000.00.01\INCHEQS.TaskAssignment\obj\Debug\INCHEQS.TaskAssignment.dll
+D:\2.Development\EGYPT DEMO\ICS\Source\V1\MVC\01-Core\01-Library\02-Level 2\02-Trunk\INCHEQS.TaskAssignment-00.000.00.01\INCHEQS.TaskAssignment\obj\Debug\INCHEQS.TaskAssignment.pdb
+D:\2.Development\DEMO_RHB\ICS\Source\V1\MVC\01-Core\01-Library\02-Level 2\02-Trunk\INCHEQS.TaskAssignment-00.000.00.01\INCHEQS.TaskAssignment\bin\Debug\INCHEQS.TaskAssignment.dll
+D:\2.Development\DEMO_RHB\ICS\Source\V1\MVC\01-Core\01-Library\02-Level 2\02-Trunk\INCHEQS.TaskAssignment-00.000.00.01\INCHEQS.TaskAssignment\bin\Debug\INCHEQS.TaskAssignment.pdb
+D:\2.Development\DEMO_RHB\ICS\Source\V1\MVC\01-Core\01-Library\02-Level 2\02-Trunk\INCHEQS.TaskAssignment-00.000.00.01\INCHEQS.TaskAssignment\bin\Debug\EntityFramework.dll
+D:\2.Development\DEMO_RHB\ICS\Source\V1\MVC\01-Core\01-Library\02-Level 2\02-Trunk\INCHEQS.TaskAssignment-00.000.00.01\INCHEQS.TaskAssignment\bin\Debug\INCHEQS.Common.dll
+D:\2.Development\DEMO_RHB\ICS\Source\V1\MVC\01-Core\01-Library\02-Level 2\02-Trunk\INCHEQS.TaskAssignment-00.000.00.01\INCHEQS.TaskAssignment\bin\Debug\INCHEQS.DataAccessLayer.dll
+D:\2.Development\DEMO_RHB\ICS\Source\V1\MVC\01-Core\01-Library\02-Level 2\02-Trunk\INCHEQS.TaskAssignment-00.000.00.01\INCHEQS.TaskAssignment\obj\Debug\INCHEQS.TaskAssignment.csproj.AssemblyReference.cache
+D:\2.Development\DEMO_RHB\ICS\Source\V1\MVC\01-Core\01-Library\02-Level 2\02-Trunk\INCHEQS.TaskAssignment-00.000.00.01\INCHEQS.TaskAssignment\obj\Debug\INCHEQS.TaskAssignment.csproj.CoreCompileInputs.cache
+D:\2.Development\DEMO_RHB\ICS\Source\V1\MVC\01-Core\01-Library\02-Level 2\02-Trunk\INCHEQS.TaskAssignment-00.000.00.01\INCHEQS.TaskAssignment\obj\Debug\INCHEQS.TaskAssignment.csproj.CopyComplete
+D:\2.Development\DEMO_RHB\ICS\Source\V1\MVC\01-Core\01-Library\02-Level 2\02-Trunk\INCHEQS.TaskAssignment-00.000.00.01\INCHEQS.TaskAssignment\obj\Debug\INCHEQS.TaskAssignment.dll
+D:\2.Development\DEMO_RHB\ICS\Source\V1\MVC\01-Core\01-Library\02-Level 2\02-Trunk\INCHEQS.TaskAssignment-00.000.00.01\INCHEQS.TaskAssignment\obj\Debug\INCHEQS.TaskAssignment.pdb
+D:\D-Voyager\Development\Pak\Banks\BoP\ICS\Source\V1\MVC\01-Core\01-Library\02-Level 2\02-Trunk\INCHEQS.TaskAssignment-00.000.00.01\INCHEQS.TaskAssignment\bin\Debug\INCHEQS.TaskAssignment.dll
+D:\D-Voyager\Development\Pak\Banks\BoP\ICS\Source\V1\MVC\01-Core\01-Library\02-Level 2\02-Trunk\INCHEQS.TaskAssignment-00.000.00.01\INCHEQS.TaskAssignment\bin\Debug\INCHEQS.TaskAssignment.pdb
+D:\D-Voyager\Development\Pak\Banks\BoP\ICS\Source\V1\MVC\01-Core\01-Library\02-Level 2\02-Trunk\INCHEQS.TaskAssignment-00.000.00.01\INCHEQS.TaskAssignment\bin\Debug\EntityFramework.dll
+D:\D-Voyager\Development\Pak\Banks\BoP\ICS\Source\V1\MVC\01-Core\01-Library\02-Level 2\02-Trunk\INCHEQS.TaskAssignment-00.000.00.01\INCHEQS.TaskAssignment\bin\Debug\INCHEQS.Common.dll
+D:\D-Voyager\Development\Pak\Banks\BoP\ICS\Source\V1\MVC\01-Core\01-Library\02-Level 2\02-Trunk\INCHEQS.TaskAssignment-00.000.00.01\INCHEQS.TaskAssignment\bin\Debug\INCHEQS.DataAccessLayer.dll
+D:\D-Voyager\Development\Pak\Banks\BoP\ICS\Source\V1\MVC\01-Core\01-Library\02-Level 2\02-Trunk\INCHEQS.TaskAssignment-00.000.00.01\INCHEQS.TaskAssignment\obj\Debug\INCHEQS.TaskAssignment.csproj.AssemblyReference.cache
+D:\D-Voyager\Development\Pak\Banks\BoP\ICS\Source\V1\MVC\01-Core\01-Library\02-Level 2\02-Trunk\INCHEQS.TaskAssignment-00.000.00.01\INCHEQS.TaskAssignment\obj\Debug\INCHEQS.TaskAssignment.csproj.CoreCompileInputs.cache
+D:\D-Voyager\Development\Pak\Banks\BoP\ICS\Source\V1\MVC\01-Core\01-Library\02-Level 2\02-Trunk\INCHEQS.TaskAssignment-00.000.00.01\INCHEQS.TaskAssignment\obj\Debug\INCHEQS.TaskAssignment.csproj.CopyComplete
+D:\D-Voyager\Development\Pak\Banks\BoP\ICS\Source\V1\MVC\01-Core\01-Library\02-Level 2\02-Trunk\INCHEQS.TaskAssignment-00.000.00.01\INCHEQS.TaskAssignment\obj\Debug\INCHEQS.TaskAssignment.dll
+D:\D-Voyager\Development\Pak\Banks\BoP\ICS\Source\V1\MVC\01-Core\01-Library\02-Level 2\02-Trunk\INCHEQS.TaskAssignment-00.000.00.01\INCHEQS.TaskAssignment\obj\Debug\INCHEQS.TaskAssignment.pdb
